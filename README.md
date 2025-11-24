@@ -254,16 +254,16 @@ void loop() {
 }
 ```
 # CIRCUIT DIAGRAM:
-![image](https://github.com/user-attachments/assets/f2e73b81-b8e9-45de-9770-b4ae7e95f238)
+![WhatsApp Image 2025-11-18 at 14 57 16_21561d05](https://github.com/user-attachments/assets/e8f66bfd-3c81-4a1a-8439-dac5cf9ccbad)
 
 
 # OUTPUT:
-![image](https://github.com/user-attachments/assets/6cfeaa3e-5552-47ae-9b6e-38fcc3a0d1f6)
+<img width="1919" height="1079" alt="Screenshot 2025-11-18 145753" src="https://github.com/user-attachments/assets/2a666fc4-53a6-4741-b175-0b7845c61271" />
 
-![image](https://github.com/user-attachments/assets/dfa7d347-22c6-4819-aab1-ab907c23d0b0)
+<img width="1919" height="969" alt="Screenshot 2025-11-18 145745" src="https://github.com/user-attachments/assets/95e42fb7-ea3a-41ae-8479-b079562d7f0f" />
 
 
-![image](https://github.com/user-attachments/assets/578b3d3e-c644-4823-a7cf-4ecb667c7397)
+<img width="1919" height="970" alt="Screenshot 2025-11-18 145723" src="https://github.com/user-attachments/assets/b99c1b33-93fd-4a63-a9da-cb34af5efd96" />
 
 # RESULT:
 
